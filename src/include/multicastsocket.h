@@ -1,4 +1,4 @@
-#ifndef __DAWN_MULTICASTSTSOCKET_H
+#ifndef __DAWN_MULTICASTSSOCKET_H
 #define __DAWN_MULTICASTSSOCKET_H
 
 #include <arpa/inet.h>
